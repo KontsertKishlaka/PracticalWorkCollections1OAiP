@@ -22,7 +22,6 @@ public class Program
                 Console.WriteLine(number);
         }
 
-
         // ЗАДАНИЕ ДЛЯ Dictionary
         Console.WriteLine("\n\nЗадание 2 (Задание для Dictionary)\n");
 
